@@ -1,1 +1,1 @@
-FROM openjdk:8-jdk_8u391
+FROM openjdk:8u342-slim
